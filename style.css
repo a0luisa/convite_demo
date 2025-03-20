@@ -1,0 +1,17 @@
+.nope{
+	font-family:"Times New Roman";
+	color:red;
+	display:inline-block;
+	width:40%;
+	font-size: 100px;
+	position:relative;
+	left:50px;
+	bottom:40px;
+
+}
+.senhora{
+	width: 45%;
+	position:absolute;
+	right:0px;
+
+}
